@@ -1,4 +1,3 @@
-PythonThing
-===========
+PythonPractice
 
 learning python
